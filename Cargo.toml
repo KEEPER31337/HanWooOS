@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+  "source/Application",
+  "source/BootLoader",
+  "source/Kernel32",
+  "source/Kernel64",
+  "source/Utility",
+]
