@@ -1,9 +1,12 @@
 [workspace]
 
 members = [
-  "source/Application",
-  "source/BootLoader",
-  "source/Kernel32",
-  "source/Kernel64",
-  "source/Utility",
+  "source/application",
+  "source/boot_loader",
+  "source/kernel32",
+  "source/kernel64",
+  "source/utility",
+
+  # entry point 
+  "source/os",
 ]
