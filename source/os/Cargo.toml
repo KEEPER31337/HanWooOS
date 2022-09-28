@@ -1,0 +1,7 @@
+[package]
+name = "os"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+boot_loader = { path = "../boot_loader" }
