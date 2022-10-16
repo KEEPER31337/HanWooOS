@@ -1,1 +1,3 @@
-pub fn compile_boot_loader() {}
+pub fn compile_boot_loader() {
+    println!("Compile boot loader");
+}
