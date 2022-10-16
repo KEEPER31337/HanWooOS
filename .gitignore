@@ -1,3 +1,5 @@
 /target/
 Cargo.lock
 
+source/os/src/BootLoader.img
+
